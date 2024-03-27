@@ -76,12 +76,12 @@ or
 * yum
   
   ```sh
-  yum install pyton3-geopy
+  yum install python3-geopy
   ```
 * apt
   
   ```sh
-  apt install pyton3-geopy
+  apt install python3-geopy
   ```  
 or however your OS requires you to install geopy
 
